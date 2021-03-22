@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(36, 36, 36);
+    color: whitesmoke;
+}
+.container{
+    background-color: teal;
+    height: 400px;
+    width: 600px;
+    
+    border-radius: 5px;
+
+    text-align: center;
+}
+h2{
+    padding: 20px;
+}
+.interior{
+    height: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    display: flex;
+    justify-content: space-between;
+
+    text-align: center;
+    font-size: 18px;
+}
+input{
+    text-align: center;
+}
